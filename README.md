@@ -1,2 +1,2 @@
-# JS-Beginner-projects
+# tic tac toe 
 JS Beginners Learning  
